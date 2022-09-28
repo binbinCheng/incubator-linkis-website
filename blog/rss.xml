@@ -4,37 +4,9 @@
         <title>Apache Linkis Blog</title>
         <link>https://linkis.incubator.apache.org/blog</link>
         <description>Apache Linkis Blog</description>
-        <lastBuildDate>Mon, 08 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Linkis1.1.1 adapts Hadoop 3.1.1 and deploys other services]]></title>
-            <link>https://linkis.incubator.apache.org/blog/2022/08/08/linkis111-compile-integration</link>
-            <guid>Linkis1.1.1 adapts Hadoop 3.1.1 and deploys other services</guid>
-            <pubDate>Mon, 08 Aug 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Environment and Version]]></description>
-        </item>
-        <item>
-            <title><![CDATA[deploy linkis with kubernetes]]></title>
-            <link>https://linkis.incubator.apache.org/blog/2022/07/16/deploy-linkis-with-kubernetes</link>
-            <guid>deploy linkis with kubernetes</guid>
-            <pubDate>Sat, 16 Jul 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[1. Dependencies and versions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[How to add a GitHub Action for the GitHub repository]]></title>
-            <link>https://linkis.incubator.apache.org/blog/2022/07/04/how-to-add-auto-bot</link>
-            <guid>How to add a GitHub Action for the GitHub repository</guid>
-            <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[1 Summary]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Apache Linkis(Incubating) Meep Up]]></title>
-            <link>https://linkis.incubator.apache.org/blog/2022/06/09/meetup-content-review</link>
-            <guid>Apache Linkis(Incubating) Meep Up</guid>
-            <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[|Data|Topic & Video|Scripts|]]></description>
-        </item>
         <item>
             <title><![CDATA[How to Download Engine Plugins Not Included in the Installation Package By Default]]></title>
             <link>https://linkis.incubator.apache.org/blog/2022/04/15/how-to-download-engineconn-plugin</link>
